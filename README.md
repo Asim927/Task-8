@@ -35,13 +35,6 @@ To build a Decision Tree classifier to predict whether a customer will subscribe
 - Successful previous campaigns improve outcomes
 - Fewer campaign contacts lead to better response
 
-## Interview Questions Covered
-- Why Decision Trees overfit?
-- What is max_depth?
-- What is Gini Impurity?
-- What is pruning?
-- What is decision boundary?
-
 ## Final Outcome
 This task demonstrates interpretable machine learning using Decision Trees and rule-based predictions.
 
